@@ -43,7 +43,7 @@ export default function TestimonialsSection() {
               className="absolute top-6 right-8 font-display text-8xl font-black leading-none opacity-10 select-none"
               style={{ color: TESTIMONIALS[active].color }}
             >
-              "
+              &quot;
             </div>
 
             {/* Stars */}
@@ -51,7 +51,7 @@ export default function TestimonialsSection() {
 
             {/* Quote text */}
             <p className="text-[var(--text)] text-lg leading-relaxed mt-5 mb-8 relative z-10">
-              "{TESTIMONIALS[active].text}"
+              &quot;{TESTIMONIALS[active].text}&quot;
             </p>
 
             {/* Author */}

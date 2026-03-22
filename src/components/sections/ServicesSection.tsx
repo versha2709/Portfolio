@@ -136,7 +136,7 @@ export default function ServicesSection() {
               href="mailto:parasharversha27@gmail.com"
               className="text-violet-400 font-semibold hover:text-violet-300 transition-colors"
             >
-              Let's talk about your project →
+              Let&apos;s talk about your project →
             </a>
           </p>
         </div>

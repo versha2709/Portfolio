@@ -53,11 +53,11 @@ export default function ContactSection() {
             className="font-display text-4xl md:text-5xl font-bold text-white leading-tight"
             style={{ letterSpacing: "-0.02em" }}
           >
-            Let's build something{" "}
+            Let&apos;s build something{" "}
             <span className="gradient-text">great together</span>
           </h2>
           <p className="mt-4 text-[var(--text-dim)] text-lg max-w-lg mx-auto leading-relaxed">
-            Have a project in mind? I'm open to freelance work and full-time opportunities. Reach out through any of the channels below.
+            Have a project in mind? I&apos;m open to freelance work and full-time opportunities. Reach out through any of the channels below.
           </p>
         </div>
 
